@@ -4,7 +4,7 @@ export const getRandom = () => {
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve(randomJson.default)
-    }, 2000) // Simula una demora de 2 segundos
+    }, 500)
   })
 }
 
