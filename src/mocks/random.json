@@ -30,24 +30,24 @@
         "isCustom": true,
         "paths": [
             {
-                "svg": "/images/svg/accessories/accessory-1.svg",
-                "png": "/images/png/accessories/accessory-1.png"
+                "svg": "/characterGenerator/images/svg/accessories/accessory-1.svg",
+                "png": "/characterGenerator/images/png/accessories/accessory-1.png"
             },
             {
-                "svg": "/images/svg/accessories/accessory-2.svg",
-                "png": "/images/png/accessories/accessory-2.png"
+                "svg": "/characterGenerator/images/svg/accessories/accessory-2.svg",
+                "png": "/characterGenerator/images/png/accessories/accessory-2.png"
             },
             {
-                "svg": "/images/svg/accessories/accessory-3.svg",
-                "png": "/images/png/accessories/accessory-3.png"
+                "svg": "/characterGenerator/images/svg/accessories/accessory-3.svg",
+                "png": "/characterGenerator/images/png/accessories/accessory-3.png"
             },
             {
-                "svg": "/images/svg/accessories/accessory-4.svg",
-                "png": "/images/png/accessories/accessory-4.png"
+                "svg": "/characterGenerator/images/svg/accessories/accessory-4.svg",
+                "png": "/characterGenerator/images/png/accessories/accessory-4.png"
             },
             {
-                "svg": "/images/svg/accessories/accessory-5.svg",
-                "png": "/images/png/accessories/accessory-5.png"
+                "svg": "/characterGenerator/images/svg/accessories/accessory-5.svg",
+                "png": "/characterGenerator/images/png/accessories/accessory-5.png"
             }
         ]
     },
@@ -56,24 +56,24 @@
         "isCustom": true,
         "paths": [
             {
-                "svg": "/images/svg/ears/ears-1.svg",
-                "png": "/images/png/ears/ear-1.png"
+                "svg": "/characterGenerator/images/svg/ears/ears-1.svg",
+                "png": "/characterGenerator/images/png/ears/ear-1.png"
             },
             {
-                "svg": "/images/svg/ears/ears-2.svg",
-                "png": "/images/png/ears/ear-2.png"
+                "svg": "/characterGenerator/images/svg/ears/ears-2.svg",
+                "png": "/characterGenerator/images/png/ears/ear-2.png"
             },
             {
-                "svg": "/images/svg/ears/ears-3.svg",
-                "png": "/images/png/ears/ear-3.png"
+                "svg": "/characterGenerator/images/svg/ears/ears-3.svg",
+                "png": "/characterGenerator/images/png/ears/ear-3.png"
             },
             {
-                "svg": "/images/svg/ears/ears-4.svg",
-                "png": "/images/png/ears/ear-4.png"
+                "svg": "/characterGenerator/images/svg/ears/ears-4.svg",
+                "png": "/characterGenerator/images/png/ears/ear-4.png"
             },
             {
-                "svg": "/images/svg/ears/ears-5.svg",
-                "png": "/images/png/ears/ear-5.png"
+                "svg": "/characterGenerator/images/svg/ears/ears-5.svg",
+                "png": "/characterGenerator/images/png/ears/ear-5.png"
             }
         ]
     },
@@ -82,24 +82,24 @@
         "isCustom": true,
         "paths": [
             {
-                "svg": "/images/svg/eyes/eyes-1.svg",
-                "png": "/images/png/eyes/eye-1.png"
+                "svg": "/characterGenerator/images/svg/eyes/eyes-1.svg",
+                "png": "/characterGenerator/images/png/eyes/eye-1.png"
             },
             {
-                "svg": "/images/svg/eyes/eyes-2.svg",
-                "png": "/images/png/eyes/eye-2.png"
+                "svg": "/characterGenerator/images/svg/eyes/eyes-2.svg",
+                "png": "/characterGenerator/images/png/eyes/eye-2.png"
             },
             {
-                "svg": "/images/svg/eyes/eyes-3.svg",
-                "png": "/images/png/eyes/eye-3.png"
+                "svg": "/characterGenerator/images/svg/eyes/eyes-3.svg",
+                "png": "/characterGenerator/images/png/eyes/eye-3.png"
             },
             {
-                "svg": "/images/svg/eyes/eyes-4.svg",
-                "png": "/images/png/eyes/eye-4.png"
+                "svg": "/characterGenerator/images/svg/eyes/eyes-4.svg",
+                "png": "/characterGenerator/images/png/eyes/eye-4.png"
             },
             {
-                "svg": "/images/svg/eyes/eyes-5.svg",
-                "png": "/images/png/eyes/eye-5.png"
+                "svg": "/characterGenerator/images/svg/eyes/eyes-5.svg",
+                "png": "/characterGenerator/images/png/eyes/eye-5.png"
             }
         ]
     },
@@ -108,24 +108,24 @@
         "isCustom": true,
         "paths": [
             {
-                "svg": "/images/svg/hair/hair-1.svg",
-                "png": "/images/png/hair/hair-1.png"
+                "svg": "/characterGenerator/images/svg/hair/hair-1.svg",
+                "png": "/characterGenerator/images/png/hair/hair-1.png"
             },
             {
-                "svg": "/images/svg/hair/hair-2.svg",
-                "png": "/images/png/hair/hair-2.png"
+                "svg": "/characterGenerator/images/svg/hair/hair-2.svg",
+                "png": "/characterGenerator/images/png/hair/hair-2.png"
             },
             {
-                "svg": "/images/svg/hair/hair-3.svg",
-                "png": "/images/png/hair/hair-3.png"
+                "svg": "/characterGenerator/images/svg/hair/hair-3.svg",
+                "png": "/characterGenerator/images/png/hair/hair-3.png"
             },
             {
-                "svg": "/images/svg/hair/hair-4.svg",
-                "png": "/images/png/hair/hair-4.png"
+                "svg": "/characterGenerator/images/svg/hair/hair-4.svg",
+                "png": "/characterGenerator/images/png/hair/hair-4.png"
             },
             {
-                "svg": "/images/svg/hair/hair-5.svg",
-                "png": "/images/png/hair/hair-5.png"
+                "svg": "/characterGenerator/images/svg/hair/hair-5.svg",
+                "png": "/characterGenerator/images/png/hair/hair-5.png"
             }
         ]
     },
@@ -134,24 +134,24 @@
         "isCustom": true,
         "paths": [
             {
-                "svg": "/images/svg/mouth/mouth-1.svg",
-                "png": "/images/png/mouth/mouth-1.png"
+                "svg": "/characterGenerator/images/svg/mouth/mouth-1.svg",
+                "png": "/characterGenerator/images/png/mouth/mouth-1.png"
             },
             {
-                "svg": "/images/svg/mouth/mouth-2.svg",
-                "png": "/images/png/mouth/mouth-2.png"
+                "svg": "/characterGenerator/images/svg/mouth/mouth-2.svg",
+                "png": "/characterGenerator/images/png/mouth/mouth-2.png"
             },
             {
-                "svg": "/images/svg/mouth/mouth-3.svg",
-                "png": "/images/png/mouth/mouth-3.png"
+                "svg": "/characterGenerator/images/svg/mouth/mouth-3.svg",
+                "png": "/characterGenerator/images/png/mouth/mouth-3.png"
             },
             {
-                "svg": "/images/svg/mouth/mouth-4.svg",
-                "png": "/images/png/mouth/mouth-4.png"
+                "svg": "/characterGenerator/images/svg/mouth/mouth-4.svg",
+                "png": "/characterGenerator/images/png/mouth/mouth-4.png"
             },
             {
-                "svg": "/images/svg/mouth/mouth-5.svg",
-                "png": "/images/png/mouth/mouth-5.png"
+                "svg": "/characterGenerator/images/svg/mouth/mouth-5.svg",
+                "png": "/characterGenerator/images/png/mouth/mouth-5.png"
             }
         ]
     },
@@ -160,24 +160,24 @@
         "isCustom": true,
         "paths": [
             {
-                "svg": "/images/svg/nose/nose-1.svg",
-                "png": "/images/png/nose/nose-1.png"
+                "svg": "/characterGenerator/images/svg/nose/nose-1.svg",
+                "png": "/characterGenerator/images/png/nose/nose-1.png"
             },
             {
-                "svg": "/images/svg/nose/nose-2.svg",
-                "png": "/images/png/nose/nose-2.png"
+                "svg": "/characterGenerator/images/svg/nose/nose-2.svg",
+                "png": "/characterGenerator/images/png/nose/nose-2.png"
             },
             {
-                "svg": "/images/svg/nose/nose-3.svg",
-                "png": "/images/png/nose/nose-3.png"
+                "svg": "/characterGenerator/images/svg/nose/nose-3.svg",
+                "png": "/characterGenerator/images/png/nose/nose-3.png"
             },
             {
-                "svg": "/images/svg/nose/nose-4.svg",
-                "png": "/images/png/nose/nose-4.png"
+                "svg": "/characterGenerator/images/svg/nose/nose-4.svg",
+                "png": "/characterGenerator/images/png/nose/nose-4.png"
             },
             {
-                "svg": "/images/svg/nose/nose-5.svg",
-                "png": "/images/png/nose/nose-5.png"
+                "svg": "/characterGenerator/images/svg/nose/nose-5.svg",
+                "png": "/characterGenerator/images/png/nose/nose-5.png"
             }
         ]
     },
@@ -185,7 +185,7 @@
         "index": 1,
         "isCustom": false,
         "path": {
-            "png": "/images/png/default/basic-character.png"
+            "png": "/characterGenerator/images/png/default/basic-character.png"
         }
     }
 }
